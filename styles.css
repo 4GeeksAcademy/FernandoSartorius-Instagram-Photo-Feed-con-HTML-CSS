@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(194, 194, 194);
+}
+
+.wrapper {
+  text-align: center;
+}
+
+.instagram {
+  display: block;
+  flex: 2;
+  background-color: rgb(255, 255, 255);
+  margin-left: 600px;
+  margin-right: 600px;
+  margin-bottom: 30px;
+  padding-top: 1px;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+}
+
+.header-post {
+  display: flex;
+  margin: 10px;
+}
+
+.titulo-post {
+  font-weight: bolder;
+}
+.enumeracion {
+  margin-left: 80%;
+  color: rgb(0, 0, 0);
+}
+.descripcion {
+  padding: 20px;
+  text-align: justify;
+}
